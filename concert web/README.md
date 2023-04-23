@@ -1,9 +1,7 @@
-# The Monkees Website
+# The Slytherine Site
 
 This website offers concert bookers, existing fans and potential fans of The Monkees a way to see and hear songs from the bands back catalog and find out about any new material as it becomes available. 
 
-The site provides information and links to buy tickets for the bands upcoming concerts as well as a method of booking the band for private events. Fans can learn about the individual members of The Monkees through the band section and provides links to the bands social media and a newsletter sign-up option.
- 
 ## UX
 
 ### User Stories
@@ -81,16 +79,3 @@ The website has been deployed to Github pages and can be found at: <https://cian
 1. Clone the repository.
 2. Open index.html in your web browser of choice.
 
-## Credits
-
-### Content
-
-- The text for 'Band' section was copied from the [Wikipedia article - The Monkees](https://en.wikipedia.org/wiki/The_Monkees)
-
-### Media
-
-- The media files used in this website were provided by the Code Institute
-
-### Acknowledgements
-
-- I received inspiration for image overlay and block divider from the [Whiskey Drop - Course Project](https://github.com/Code-Institute-Solutions/BootstrapLandingPage)
